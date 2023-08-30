@@ -1,6 +1,6 @@
 """
 This is an example of a web scraper script using requests library to scrape job posting comments from Hacker News (Ask HN) posted in June 2023.
-After scraping and using BeautifulSoup to create a list of comments, the question: "Which programming language had the most job posts in June 2023?" , is being asked and
+After scraping and using BeautifulSoup to create a list of comments, the question: "Which programming language mentioned the most on job posts in June 2023?" , is being asked and
 the script uses matplotlib library to generate a bar chart presenting the # of mentions per language.
 
 This script can readily adjusted to scrape from different sites and/or search for other form of analytics within the text or other content.
